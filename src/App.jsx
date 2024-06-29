@@ -5,7 +5,8 @@ import Course from './pages/course/course'
 import { Suspense } from 'react'
 import Loading from './components/loading/loading'
 import ProductById from './pages/products/productById/productById'
-
+// dsa
+// fsdfsd
 const App = () => {
 	let router = createBrowserRouter([
 		{
